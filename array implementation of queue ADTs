@@ -1,4 +1,4 @@
-/* Queue Operation using Arrays */
+
 #include <stdio.h>
 #include <conio.h>
 #define max 5
