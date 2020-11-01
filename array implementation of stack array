@@ -1,4 +1,4 @@
-/*stack operation using arrays */
+
 #include <stdio.h>
 #include <conio.h>
 #define max 5
